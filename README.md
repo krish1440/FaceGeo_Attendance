@@ -1,10 +1,11 @@
+
 # 👁️‍🗨️ FaceGeo: Revolutionizing Attendance Management
 
 Welcome to **FaceGeo**, a smart attendance management system that combines **facial recognition** and **geo-fencing** technologies for secure, efficient, and fraud-proof attendance tracking — ideal for companies and educational institutions.
 
 ---
 
-![FaceGeo Overview](assets/screenshots/overview.png)
+![FaceGeo Overview](assets/overview.png)
 
 ## 🚀 Key Features
 
@@ -49,19 +50,19 @@ Welcome to **FaceGeo**, a smart attendance management system that combines **fac
 ## 🧭 Project Screenshots
 
 ### 🔷 FaceGeo Dashboard
-![Dashboard](assets/screenshots/dashboard.png)
+![Dashboard](assets/Dashboard.png)
 
 ### 🔷 Face & Location Verification
-![Verification](assets/screenshots/verification.png)
+![Verification](assets/mark_attendace.png)
 
 ### 🔷 Attendance Summary
-![Summary](assets/screenshots/summary.png)
+![Summary](assets/attendace_summury.png)
 
 ### 🔷 Users Dashboard
-![Users Dashboard](assets/screenshots/users-dashboard.png)
+![Users Dashboard](assets/user_dashboard.png)
 
 ### 🔷 Organization Dashboard
-![Org Dashboard](assets/screenshots/org-dashboard.png)
+![Org Dashboard](assets/org_dashboard.png)
 
 ---
 
@@ -94,6 +95,6 @@ Welcome to **FaceGeo**, a smart attendance management system that combines **fac
 ## 🔗 Demo Presentation
 
 Watch our interactive presentation built with Gamma:  
-📎 [View Presentation](https://gamma.app/?utm_source=made-with-gamma)
+📎 [View Presentation](https://facegeo-attendance.onrender.com/)
 
 ---
